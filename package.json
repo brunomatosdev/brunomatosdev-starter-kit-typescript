@@ -2,12 +2,11 @@
   "name": "brunomatosdev-starter-kit-typescript",
   "license": "MIT",
   "version": "0.1.0",
- "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/brunomatosdev/brunomatosdev-starter-kit-typescript.git"
   },
   "author": "BrunoMatosDev",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
